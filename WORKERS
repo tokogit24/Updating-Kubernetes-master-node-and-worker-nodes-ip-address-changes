@@ -1,0 +1,3 @@
+# reset the password
+kudeadm reset
+# run the command to join the cluster
